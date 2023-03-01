@@ -19,6 +19,7 @@ The following were written in C, and tested on Ubuntu and/or Windows 11:
 | `0-binary_tree_node.c` | Creates a binary tree node. |
 | `1-binary_tree_insert_left.c` | Inserts a node as the left child of another binary tree node. |
 | `2-binary_tree_insert_right.c` | Inserts a node as the right child of another binary tree node. |
+| `3-binary_tree_delete.c` | Deletes an entire binary tree. |
 
 ## Authors
 * [Donald Ajaps](https://github.com/adobki)
