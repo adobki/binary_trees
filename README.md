@@ -17,7 +17,7 @@ The following were written in C, and tested on Ubuntu and/or Windows 11:
 | -------- | ----------- |
 | `tests`  | Folder. Contains numbered main.c funtions used to compile/test the corresponding numbered project files below. |
 | `0-binary_tree_node.c` | Creates a binary tree node. |
-
+| `1-binary_tree_insert_left.c` | Inserts a node as the left child of another binary tree node. |
 
 ## Authors
 * [Donald Ajaps](https://github.com/adobki)
