@@ -21,6 +21,7 @@ The following were written in C, and tested on Ubuntu and/or Windows 11:
 | `2-binary_tree_insert_right.c` | Inserts a node as the right child of another binary tree node. |
 | `3-binary_tree_delete.c` | Deletes an entire binary tree. |
 | `4-binary_tree_is_leaf.c` | Checks if a node is a leaf. |
+| `5-binary_tree_is_root.c` | Checks if a node is a root. |
 
 ## Authors
 * [Donald Ajaps](https://github.com/adobki)
