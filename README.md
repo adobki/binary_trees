@@ -22,6 +22,7 @@ The following were written in C, and tested on Ubuntu and/or Windows 11:
 | `3-binary_tree_delete.c` | Deletes an entire binary tree. |
 | `4-binary_tree_is_leaf.c` | Checks if a node is a leaf. |
 | `5-binary_tree_is_root.c` | Checks if a node is a root. |
+| `6-binary_tree_preorder.c` | Goes through a binary tree using pre-order traversal. |
 
 ## Authors
 * [Donald Ajaps](https://github.com/adobki)
