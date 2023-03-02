@@ -26,6 +26,7 @@ The following were written in C, and tested on Ubuntu and/or Windows 11:
 | `7-binary_tree_inorder.c` | Goes through a binary tree using in-order traversal. |
 | `8-binary_tree_postorder.c` | Goes through a binary tree using post-order traversal. |
 | `9-binary_tree_height.c` | Measures the height of a binary tree. |
+| `10-binary_tree_depth.c` | Measures the depth of a node in a binary tree. |
 
 ## Authors
 * [Donald Ajaps](https://github.com/adobki)
