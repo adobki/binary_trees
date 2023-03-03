@@ -32,6 +32,8 @@ The following were written in C, and tested on Ubuntu and/or Windows 11:
 | `13-binary_tree_nodes.c` | Counts the nodes with at least 1 child in a binary tree. |
 | `14-binary_tree_balance.c` | Measures the balance factor of a binary tree. |
 | `15-binary_tree_is_full.c` | Checks if a binary tree is full. |
+| `16-binary_tree_is_perfect.c` | Checks if a binary tree is perfect. |
+| `17-binary_tree_sibling.c` | Finds the sibling of a node. |
 
 ## Authors
 * [Donald Ajaps](https://github.com/adobki)
