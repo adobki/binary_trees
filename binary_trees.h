@@ -56,4 +56,9 @@ int binary_tree_is_perfect(const binary_tree_t *tree);
 binary_tree_t *binary_tree_sibling(binary_tree_t *node);
 binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 
+/* Basic Binary Tree (shorthand version) */
+typedef struct binary_tree_s b_tree;
+
+b_tree *binary_trees_ancestor(const b_tree *first, const b_tree *second);
+
 #endif /* _BINARY_TREES_H_ */
