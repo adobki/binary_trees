@@ -9,7 +9,7 @@
  * Return: Calculated balance factor of given binary tree.
  */
 
-size_t calc_balance(const binary_tree_t *tree, size_t balance)
+int calc_balance(const binary_tree_t *tree, size_t balance)
 {
 	if (!tree)
 		return (balance);
@@ -45,7 +45,7 @@ size_t calc_balance(const binary_tree_t *tree, size_t balance)
  * Return: Balance factor of given binary tree.
  */
 
-size_t binary_tree_balance(const binary_tree_t *tree)
+int binary_tree_balance(const binary_tree_t *tree)
 {
 	if (!tree)
 		return (0);

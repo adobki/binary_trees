@@ -8,17 +8,6 @@
 #include "../10-binary_tree_depth.c"
 
 /**
- * print_num - Prints a number
- *
- * @n: Number to be printed
- */
-void print_num(int n)
-{
-	printf("%d\n", n);
-}
-
-
-/**
  * main - Entry point. Tests the code.
  *
  * Return: Always 0 (Success).
@@ -51,7 +40,7 @@ int main(void)
 		binary_tree_print(root);
 		printf("\n");
 
-		depth = (int)binary_tree_depth(root);
+		depth = binary_tree_depth(root);
 		printf("Depth from %-4d:  %-3d\n", root->n, depth);
 		depth = binary_tree_depth(root->right);
 		printf("Depth from %-4d:  %-3d\n", root->right->n, depth);

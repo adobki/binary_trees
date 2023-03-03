@@ -8,17 +8,6 @@
 #include "../11-binary_tree_size.c"
 
 /**
- * print_num - Prints a number
- *
- * @n: Number to be printed
- */
-void print_num(int n)
-{
-	printf("%d\n", n);
-}
-
-
-/**
  * main - Entry point. Tests the code.
  *
  * Return: Always 0 (Success).
@@ -51,7 +40,7 @@ int main(void)
 		binary_tree_print(root);
 		printf("\n");
 
-		size = (int)binary_tree_size(root);
+		size = binary_tree_size(root);
 		printf("Size from %-4d= %-3d\n", root->n, size);
 		size = binary_tree_size(root->right);
 		printf("Size from %-4d= %-3d\n", root->right->n, size);

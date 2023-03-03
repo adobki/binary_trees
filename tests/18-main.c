@@ -8,17 +8,6 @@
 #include "../18-binary_tree_uncle.c"
 
 /**
- * print_num - Prints a number
- *
- * @n: Number to be printed
- */
-void print_num(int n)
-{
-	printf("%d\n", n);
-}
-
-
-/**
  * main - Entry point. Tests the code.
  *
  * Return: Always 0 (Success).
