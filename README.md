@@ -36,6 +36,7 @@ The following were written in C, and tested on Ubuntu and/or Windows 11:
 | `17-binary_tree_sibling.c` | Finds the sibling of a node. |
 | `18-binary_tree_uncle.c` | Finds the uncle of a node. |
 | `100-binary_trees_ancestor.c` | Finds the lowest common ancestor of two nodes. |
+| `101-binary_tree_levelorder.c` | Goes through a binary tree using level-order traversal. |
 
 ## Authors
 * [Donald Ajaps](https://github.com/adobki)
